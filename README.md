@@ -1,8 +1,7 @@
 ### About me 
 
-## Hi👋, This is SeoHyeon Jeong
-
-I aspire to become a Data Scientist capable of providing optimal solutions tailored to the needs of users. 
+<h1 align="left">Hi👋, This is SeoHyeon Jeong
+<h3 align="left">I aspire to become a Data Scientist capable of providing optimal solutions tailored to the needs of users. 
 
 
 
