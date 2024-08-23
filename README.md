@@ -22,7 +22,7 @@
 
 <h3 align="left">📈 my github stats</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jsh1021902&show_icons=true&locale=en&layout=compact" alt="jsh1021902" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jsh1021902&show_icons=true&locale=en&layout=compact" alt="jsh1021902" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jsh1021902&show_icons=true&locale=en" alt="jsh1021902" /></p>
 
