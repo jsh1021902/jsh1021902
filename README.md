@@ -3,9 +3,6 @@
 <h1 align="left">Hi 👋, I'm SeoHyeon Jeong</h1>
 <h3 align="left">I aspire to become a Data Scientist capable of providing optimal solutions tailored to the needs of users.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jsh1021902&label=Profile%20views&color=0e75b6&style=flat" alt="jsh1021902" />   </p>
-[![Gmail Badge](https://img.shields.io/badge/-jsh1021902@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jsh1021902@gmail.com)](mailto:jsh1021902@gmail.com)
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=jsh1021902&label=Profile%20views&color=0e75b6&style=flat" alt="jsh1021902" />
   <a href="mailto:jsh1021902@gmail.com">
