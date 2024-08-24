@@ -61,36 +61,58 @@
     <tr border: none;>
       <td><b>🎀 Type</b></td>
       <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Tools</b></td>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><b>JSS (J.Smart.Solution)</b></td>
       <td><b>Gwangju Songwon University Railway Control Program (LS / MMI / CCTV)</b></td>
+      <td><b>
+        <img alt="C#" src="https://img.shields.io/badge/C%23-6A0DAD?style=flat-square&logo=csharp&logoColor=white"/>
+        <img alt="MSSQL" src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>
+      </b></td>
     </tr>
     <tr>
       <td><b>JSS (J.Smart.Solution)</b></td>
       <td><b>편리사 (ERP / MES)</b></td>
+      <td><b>
+        <img alt="C#" src="https://img.shields.io/badge/C%23-6A0DAD?style=flat-square&logo=csharp&logoColor=white"/>
+        <img alt="MSSQL" src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>
+      </b></td>
     </tr>
     <tr>
       <td><b>JSS (J.Smart.Solution)</b></td>
       <td><b>CSIM (ERP / MES)</b></td>
+      <td><b>
+        <img alt="C#" src="https://img.shields.io/badge/C%23-6A0DAD?style=flat-square&logo=csharp&logoColor=white"/>
+        <img alt="MSSQL" src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>
+      </b></td>
     </tr>
     <tr>
       <td><b>JSS (J.Smart.Solution)</b></td>
       <td><b>ATS (ERP / MES)</b></td>
+      <td><b>
+        <img alt="C#" src="https://img.shields.io/badge/C%23-6A0DAD?style=flat-square&logo=csharp&logoColor=white"/>
+        <img alt="MSSQL" src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>
+      </b></td>
     </tr>
     <tr>
       <td><b>JSS (J.Smart.Solution)</b></td>
       <td><b>JNS (ERP / MES)</b></td>
+      <td><b>
+        <img alt="C#" src="https://img.shields.io/badge/C%23-6A0DAD?style=flat-square&logo=csharp&logoColor=white"/>
+        <img alt="MSSQL" src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>
+      </b></td>
     </tr>
     <tr>
       <td><b>JSS (J.Smart.Solution)</b></td>
       <td><b>로보콘 (ERP / MES)</b></td>
-    </tr>
-
-    
-    
+      <td><b>
+        <img alt="C#" src="https://img.shields.io/badge/C%23-6A0DAD?style=flat-square&logo=csharp&logoColor=white"/>
+        <img alt="MSSQL" src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>
+      </b></td>
+    </tr>       
   </tbody>
 </table>
 
