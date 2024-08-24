@@ -18,12 +18,11 @@
 <h3>Things I code with</h3>
 <h4>Programming Languages</h4>
 <p>
-  <img src="https://img.shields.io/badge/csharp-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="csharp" />
+  <img alt="C#" src="https://img.shields.io/badge/C%23-239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="r" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
-  <img src=https://img.shields.io/badge/MSSQL-blue?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="mssql"/>
+  <img alt="r" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img alt="MSSQL" src="https://img.shields.io/badge/MSSQL-CC2927.svg?&style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
 </p>
 
 <h4>AI/ML</h4>
