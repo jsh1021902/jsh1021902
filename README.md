@@ -17,7 +17,10 @@
 
 <h3>Things I code with</h3>
 <p>
-  <img alt="csharp" src="https://img.shields.io/badge/-csharp-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  ![csharp](https://img.shields.io/badge/csharp-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![r](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+  ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 </p>
 
 <h3>Where to find me</h3>
