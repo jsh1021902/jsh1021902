@@ -21,6 +21,8 @@
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img alt="R" src="https://img.shields.io/badge/R-276DC3?style==flat-square&logo=r&logoColor=white"/>
   <img alt="C#" src="https://img.shields.io/badge/C%23-6A0DAD?style=flat-square&logo=csharp&logoColor=white"/>
+  <img alt="SPSS" src="https://img.shields.io/badge/SPSS%23-6A0DAD?style=flat-square&logo=SPSS&logoColor=white"/>
+  <img alt="SAS" src="https://img.shields.io/badge/SAS%23-6A0DAD?style=flat-square&logo=SAS&logoColor=white"/>
 </p>
 
 <h4>Mobile App Development</h4>
@@ -61,6 +63,30 @@
 ![2022.08 ~ 2023.12](https://img.shields.io/badge/2022.08%20~%202023.12-87CEEB?style=flat-square) JSS (J.Smart.Solution) - Lead Researcher for SmartFactory ERP & MES Development  
 ![2023.03 ~ 2023.12](https://img.shields.io/badge/2023.03%20~%202023.12-87CEEB?style=flat-square) CUAI (Chung-Ang University Artificial Intelligence Club) 6th Generation  
 ![2023.12 ~ Present](https://img.shields.io/badge/2023.12%20~%20Present-87CEEB?style=flat-square) Undergraduate Research Student at SPM LAB, Department of Applied Statistics, Chung-Ang University  
+
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/2019.03%20~%202025.02-87CEEB?style=flat-square" /></td>
+    <td>Attended Chung-Ang University, Department of Applied Statistics</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/2021.02%20~%202022.08-87CEEB?style=flat-square" /></td>
+    <td>Korea Combat Training Center (KCTC), Army Sergeant, Honorable Discharge</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/2022.08%20~%202023.12-87CEEB?style=flat-square" /></td>
+    <td>JSS (J.Smart.Solution) - Lead Researcher for SmartFactory ERP & MES Development</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/2023.03%20~%202023.12-87CEEB?style=flat-square" /></td>
+    <td>CUAI (Chung-Ang University Artificial Intelligence Club) 6th Generation</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/2023.12%20~%20Present-87CEEB?style=flat-square" /></td>
+    <td>Undergraduate Research Student at SPM LAB, Department of Applied Statistics, Chung-Ang University</td>
+  </tr>
+</table>
+
 
 <h3>📜 Certifications</h3>
 
