@@ -54,11 +54,7 @@
   <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-<h3>Where to find me</h3>
-<p>
-  <a href="https://github.com/jsh1021902" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white"/></a>
-  <a href="https://instagram.com/jsh1021902" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%231DA1F2.svg?&style=flat-square&logo=instagram&logoColor=white"/></a>
-</p>
+
 
 <h3></h3>
 
@@ -80,4 +76,10 @@
 **2024** Encouragement Award at the 1st 2024 Korea Student Startup Week for Public Technology-Based Startup Idea  
 
 <h3 align="left">📈my github stats</h3>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jsh1021902&show_icons=true&theme=gotham" alt="jsh1021902" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jsh1021902&show_icons=true&theme=gotham" alt="jsh1021902"/>
+
+<h3>Where to find me</h3>
+<p>
+  <a href="https://github.com/jsh1021902" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white"/></a>
+  <a href="https://instagram.com/jsh1021902" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%231DA1F2.svg?&style=flat-square&logo=instagram&logoColor=white"/></a>
+</p>
