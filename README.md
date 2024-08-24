@@ -20,7 +20,7 @@
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img alt="R" src="https://img.shields.io/badge/R-276DC3?style==flat-square&logo=r&logoColor=white"/>
-  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
+  <img alt="C#" src="https://img.shields.io/badge/C%23-6A0DAD?style=flat-square&logo=csharp&logoColor=white"/>
   <img alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style==flat-square&logo=mysql&logoColor=white"/>
   <img alt="MSSQL" src="https://img.shields.io/badge/MSSQL-CC2927?style==flat-square&logo=microsoft-sql-server&logoColor=white"/>
 </p>
