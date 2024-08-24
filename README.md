@@ -11,12 +11,6 @@
 
 - 📫 How to reach me **jsh1021902@naver.com**
 
-<h3 align="left">Where to find me</h3>
-<p align="left">
-<a href="https://kaggle.com/jsh1021902" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jsh1021902" height="30" width="40" /></a>
-<a href="https://instagram.com/jsh1021902" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jsh1021902" height="30" width="40" /></a>
-</p>
-
 <h3>Where to find me</h3>
 <p><a href="https://github.com/jsh1021902" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://instagram.com/jsh1021902" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%231DA1F2.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
