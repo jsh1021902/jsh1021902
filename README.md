@@ -58,12 +58,6 @@
 
 <h3>🏙️ Working/Education Experience</h3>
 
-![2019.03 ~ 2025.02](https://img.shields.io/badge/2019.03%20~%202025.02-87CEEB?style=flat-square) Attended Chung-Ang University, Department of Applied Statistics  
-![2021.02 ~ 2022.08](https://img.shields.io/badge/2021.02%20~%202022.08-87CEEB?style=flat-square) Korea Combat Training Center (KCTC), Army Sergeant, Honorable Discharge  
-![2022.08 ~ 2023.12](https://img.shields.io/badge/2022.08%20~%202023.12-87CEEB?style=flat-square) JSS (J.Smart.Solution) - Lead Researcher for SmartFactory ERP & MES Development  
-![2023.03 ~ 2023.12](https://img.shields.io/badge/2023.03%20~%202023.12-87CEEB?style=flat-square) CUAI (Chung-Ang University Artificial Intelligence Club) 6th Generation  
-![2023.12 ~ Present](https://img.shields.io/badge/2023.12%20~%20Present-87CEEB?style=flat-square) Undergraduate Research Student at SPM LAB, Department of Applied Statistics, Chung-Ang University  
-
 <table>
   <tr>
     <td><img src="https://img.shields.io/badge/2019.03%20~%202025.02-87CEEB?style=flat-square" /></td>
@@ -87,22 +81,54 @@
   </tr>
 </table>
 
-
 <h3>📜 Certifications</h3>
-
-![2019](https://img.shields.io/badge/2019-FFA07A?style=flat-square) Microsoft Office Specialist 2019  
-![2020](https://img.shields.io/badge/2020-FFA07A?style=flat-square) Chamber of Commerce Chinese Character Level 3  
-![2020](https://img.shields.io/badge/2020-FFA07A?style=flat-square) Computer Literacy Level 1  
-![2022](https://img.shields.io/badge/2022-FFA07A?style=flat-square) Data Analysis Associate Professional (ADsP)  
-![2023](https://img.shields.io/badge/2023-FFA07A?style=flat-square) SQL Developer (SQLD)  
-![2024](https://img.shields.io/badge/2024-FFA07A?style=flat-square) Social Research Analyst Level 2  
-![2024](https://img.shields.io/badge/2024-FFA07A?style=flat-square) Big Data Analysis Certificate  
+<table>
+  <tr>
+    <td style="width: 150px;"><img src="https://img.shields.io/badge/2019-FFA07A?style=flat-square" /></td>
+    <td>Microsoft Office Specialist 2019</td>
+  </tr>
+  <tr>
+    <td style="width: 150px;"><img src="https://img.shields.io/badge/2020-FFA07A?style=flat-square" /></td>
+    <td>Chamber of Commerce Chinese Character Level 3</td>
+  </tr>
+  <tr>
+    <td style="width: 150px;"><img src="https://img.shields.io/badge/2020-FFA07A?style=flat-square" /></td>
+    <td>Computer Literacy Level 1</td>
+  </tr>
+  <tr>
+    <td style="width: 150px;"><img src="https://img.shields.io/badge/2022-FFA07A?style=flat-square" /></td>
+    <td>Data Analysis Associate Professional (ADsP)</td>
+  </tr>
+  <tr>
+    <td style="width: 150px;"><img src="https://img.shields.io/badge/2023-FFA07A?style=flat-square" /></td>
+    <td>SQL Developer (SQLD)</td>
+  </tr>
+  <tr>
+    <td style="width: 150px;"><img src="https://img.shields.io/badge/2024-FFA07A?style=flat-square" /></td>
+    <td>Social Research Analyst Level 2</td>
+  </tr>
+  <tr>
+    <td style="width: 150px;"><img src="https://img.shields.io/badge/2024-FFA07A?style=flat-square" /></td>
+    <td>Big Data Analysis Certificate</td>
+  </tr>
+</table>
 
 <h3>🏆 Achievements</h3>
+<table>
+  <tr>
+    <td style="width: 150px;"><img src="https://img.shields.io/badge/2023-FFD700?style=flat-square" /></td>
+    <td>Encouragement Award at the 2023 Chung-Ang University College of Business and Economics Academic Festival</td>
+  </tr>
+  <tr>
+    <td style="width: 150px;"><img src="https://img.shields.io/badge/2023-FFD700?style=flat-square" /></td>
+    <td>Encouragement Award at the CUAI 6th Summer Conference</td>
+  </tr>
+  <tr>
+    <td style="width: 150px;"><img src="https://img.shields.io/badge/2024-FFD700?style=flat-square" /></td>
+    <td>Encouragement Award at the 1st 2024 Korea Student Startup Week for Public Technology-Based Startup Idea</td>
+  </tr>
+</table>
 
-![2023](https://img.shields.io/badge/2023-FFD700?style=flat-square) Encouragement Award at the 2023 Chung-Ang University College of Business and Economics Academic Festival  
-![2023](https://img.shields.io/badge/2023-FFD700?style=flat-square) Encouragement Award at the CUAI 6th Summer Conference  
-![2024](https://img.shields.io/badge/2024-FFD700?style=flat-square) Encouragement Award at the 1st 2024 Korea Student Startup Week for Public Technology-Based Startup Idea  
 
 <h3 align="left">📈my github stats</h3>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jsh1021902&show_icons=true&theme=gotham" alt="jsh1021902"/>
