@@ -21,8 +21,8 @@
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img alt="R" src="https://img.shields.io/badge/R-276DC3?style==flat-square&logo=r&logoColor=white"/>
   <img alt="C#" src="https://img.shields.io/badge/C%23-6A0DAD?style=flat-square&logo=csharp&logoColor=white"/>
-  <img alt="SPSS" src="https://img.shields.io/badge/SPSS%23-6A0DAD?style=flat-square&logo=SPSS&logoColor=white"/>
-  <img alt="SAS" src="https://img.shields.io/badge/SAS%23-6A0DAD?style=flat-square&logo=SAS&logoColor=white"/>
+  <img alt="SPSS" src="https://img.shields.io/badge/SPSS-87CEEB?style=flat-square&logo=SPSS&logoColor=white"/>
+  <img alt="SAS" src="https://img.shields.io/badge/SAS-90EE90?style=flat-square&logo=SAS&logoColor=white"/>
 </p>
 
 <h4>Mobile App Development</h4>
