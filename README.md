@@ -37,7 +37,7 @@
   <img alt="jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
   <img alt="pandas" src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
   <img alt="seaborn" src="https://img.shields.io/badge/seaborn-276DC3?style=flat-square&logo=seaborn&logoColor=white"/>
-  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  <img alt="scikit learn" src="https://img.shields.io/badge/scikit learn-F7931E?style=flat-square&logo=scikit learn&logoColor=white"/>
 </p>
 
 <h4>DevOps</h4>
