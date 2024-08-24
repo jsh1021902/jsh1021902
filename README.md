@@ -115,11 +115,11 @@
     </tr>
     <tr>
       <td><b>Chung-Ang University College of Business and Economics Academic Festival</b></td>
-      <td><b></b></td>
+      <td><b>A Review of Statistical Data Analysis Methods for Performance Evaluation of Synthetic Data</b></td>
       <td><b>
         <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+        <img alt="jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
         <img alt="Machine Learning" src="https://img.shields.io/badge/Machine Learning-F37626?style=flat-square&logo=Machine Learning&logoColor=white"/>
-        <img alt="Kaggle" src="https://img.shields.io/badge/kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/>
       </b></td>
     </tr>
     <tr>
@@ -150,6 +150,33 @@
       </b></td>
     </tr>
     <tr>
+      <td><b>AI Idea Competition for Solving Challenges in Seoul's Urban Manufacturing Industry</b></td>
+      <td><b></b></td>
+      <td><b>
+        <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+        <img alt="jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+        <img alt="Machine Learning" src="https://img.shields.io/badge/Machine Learning-F37626?style=flat-square&logo=Machine Learning&logoColor=white"/>
+      </b></td>
+    </tr>
+    <tr>
+      <td><b>2023 Seoul Big Data Campus Competition</b></td>
+      <td><b></b></td>
+      <td><b>
+        <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+        <img alt="jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+        <img alt="Machine Learning" src="https://img.shields.io/badge/Machine Learning-F37626?style=flat-square&logo=Machine Learning&logoColor=white"/>
+      </b></td>
+    </tr>
+    <tr>
+      <td><b>The 2nd Applied Statistics Department Entrepreneurship Competition</b></td>
+      <td><b></b></td>
+      <td><b>
+        <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+        <img alt="jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+        <img alt="Machine Learning" src="https://img.shields.io/badge/Machine Learning-F37626?style=flat-square&logo=Machine Learning&logoColor=white"/>
+      </b></td>
+    </tr>
+    <tr>
       <td><b>CUAI Basic Course</b></td>
       <td><b>Spiking Neural Network (SNN)-Based Vehicle Identification Image Processing Model</b></td>
       <td><b>
@@ -177,6 +204,15 @@
         <img alt="pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
         <img alt="LSTM Autoencoder" src="https://img.shields.io/badge/LSTM Autoencoder-150458?style=flat-square&logo=LSTM Autoencoder&logoColor=white"/>
         <img alt="jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+      </b></td>
+    </tr>
+    <tr>
+      <td><b>Encouragement Award at the 1st 2024 Korea Student Startup Week for Public Technology-Based Startup Idea</b></td>
+      <td><b></b></td>
+      <td><b>
+        <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+        <img alt="jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+        <img alt="Machine Learning" src="https://img.shields.io/badge/Machine Learning-F37626?style=flat-square&logo=Machine Learning&logoColor=white"/>
       </b></td>
     </tr>
     <tr>
