@@ -61,7 +61,7 @@
     <tr border: none;>
       <td><b>🎀 Type</b></td>
       <td><b>🎁 Projects</b></td>
-      <td><b>🛎 Tools</b></td>
+      <td><b>🛎 Technique Stack</b></td>
     </tr>
   </thead>
   <tbody>
@@ -115,7 +115,7 @@
     </tr>
     <tr>
       <td><b>Chung-Ang University College of Business and Economics Academic Festival</b></td>
-      <td><b>Spaceship Titanic</b></td>
+      <td><b></b></td>
       <td><b>
         <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
         <img alt="Machine Learning" src="https://img.shields.io/badge/Machine Learning-F37626?style=flat-square&logo=Machine Learning&logoColor=white"/>
