@@ -61,10 +61,10 @@
     <tr border: none;>
       <td><b>🎀 Type</b></td>
       <td><b>🎁 Projects</b></td>
-      /*<td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>*/
+      /**<td><b>⭐ Stars</b></td>
+      *<td><b>📚 Forks</b></td>
+      *<td><b>🛎 Issues</b></td>
+      *<td><b>📬 Pull requests</b></td>*/
     </tr>
   </thead>
   <tbody>
