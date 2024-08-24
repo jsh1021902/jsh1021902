@@ -119,7 +119,7 @@
       <td><b>
         <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
         <img alt="pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-        <img alt="CNN(Convolutional Neural Network)" src="https://img.shields.io/badge/CNN-150458?style=flat-square&logo=CNN&logoColor=white"/>
+        <img alt="CNN(Convolutional Neural Network)" src="https://img.shields.io/badge/CNN-150458?style=flat-square&logo=Convolutional Neural Network&logoColor=white"/>
       </b></td>
     </tr>
   </tbody>
