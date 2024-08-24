@@ -113,7 +113,6 @@
         <img alt="MSSQL" src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>
       </b></td>
     </tr>       
-
     <tr>
       <td><b>CUAI</b></td>
       <td><b>Development of the Cerebral Aneurysm Detectron using Brain DSA(Digital Subtraction Angiography) Image</b></td>
