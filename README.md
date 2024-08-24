@@ -17,11 +17,12 @@
 
 <h3>Things I code with</h3>
 <p>
-  ![csharp](https://img.shields.io/badge/csharp-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![r](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-  ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+  <img src="https://img.shields.io/badge/csharp-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="csharp" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="r" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
 </p>
+
 
 <h3>Where to find me</h3>
 <p><a href="https://github.com/jsh1021902" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://instagram.com/jsh1021902" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%231DA1F2.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
