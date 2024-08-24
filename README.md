@@ -19,7 +19,8 @@
 <h4>Programming Languages</h4>
 <p>
   <img src="https://img.shields.io/badge/csharp-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="csharp" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
+  <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="r" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
   <img src=https://img.shields.io/badge/MSSQL-blue?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="mssql"/>
