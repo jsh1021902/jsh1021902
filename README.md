@@ -63,19 +63,21 @@
 <h3></h3>
 
 
-<h3>📜Certifications</h3>
-**2019** Microsoft Office Specialist 2019
-**2020** Chamber of Commerce Chinese Character Level 3
-**2020** Computer Literacy Level 1
-**2022** Data Analysis Associate Professional (ADsP)
-**2023** SQL Developer (SQLD)
-**2024** Social Research Analyst Level 2
-**2024** Big Data Analysis Certificate
+<h3>📜 Certifications</h3>
 
-<h3>🏆Achievements</h3>
-**2023** Encouragement Award at the 2023 Chung-Ang University College of Business and Economics Academic Festival
-**2023** Encouragement Award at the CUAI 6th Summer Conference
-**2024** Encouragement Award at the 1st 2024 Korea Student Startup Week for Public Technology-Based Startup Idea
+**2019** Microsoft Office Specialist 2019  
+**2020** Chamber of Commerce Chinese Character Level 3  
+**2020** Computer Literacy Level 1  
+**2022** Data Analysis Associate Professional (ADsP)  
+**2023** SQL Developer (SQLD)  
+**2024** Social Research Analyst Level 2  
+**2024** Big Data Analysis Certificate  
+
+<h3>🏆 Achievements</h3>
+
+**2023** Encouragement Award at the 2023 Chung-Ang University College of Business and Economics Academic Festival  
+**2023** Encouragement Award at the CUAI 6th Summer Conference  
+**2024** Encouragement Award at the 1st 2024 Korea Student Startup Week for Public Technology-Based Startup Idea  
 
 <h3 align="left">📈my github stats</h3>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jsh1021902&show_icons=true&theme=gotham" alt="jsh1021902" />
