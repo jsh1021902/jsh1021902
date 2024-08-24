@@ -131,6 +131,25 @@
         <img alt="CNN(Convolutional Neural Network)" src="https://img.shields.io/badge/CNN-150458?style=flat-square&logo=Convolutional Neural Network&logoColor=white"/>
       </b></td>
     </tr>
+    <tr>
+      <td><b>CUAI Basic Course</b></td>
+      <td><b>MNIST Data Classification Using Spiking Neural Network (SNN) Implementation</b></td>
+      <td><b>
+        <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+        <img alt="pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+        <img alt="SNN(Spiking Neural Network)" src="https://img.shields.io/badge/SNN-150458?style=flat-square&logo=Spiking Neural Network&logoColor=white"/>
+      </b></td>
+    </tr>
+    <tr>
+      <td><b>CUAI Basic Course</b></td>
+      <td><b>Spiking Neural Network (SNN)-Based Vehicle Identification Image Processing Model</b></td>
+      <td><b>
+        <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+        <img alt="pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+        <img alt="SNN(Spiking Neural Network)" src="https://img.shields.io/badge/SNN-150458?style=flat-square&logo=Spiking Neural Network&logoColor=white"/>
+        <img alt="Kaggle" src="https://img.shields.io/badge/kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/>
+      </b></td>
+    </tr>
   </tbody>
 </table>
 
