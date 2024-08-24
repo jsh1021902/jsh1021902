@@ -118,6 +118,7 @@
       <td><b>Spaceship Titanic</b></td>
       <td><b>
         <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+        <img alt="Machine Learning" src="https://img.shields.io/badge/Machine Learning-F37626?style=flat-square&logo=Machine Learning&logoColor=white"/>
         <img alt="Kaggle" src="https://img.shields.io/badge/kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/>
       </b></td>
     </tr>
