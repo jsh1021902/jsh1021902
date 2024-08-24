@@ -22,6 +22,8 @@
 
 <h3 align="left">📈 my github stats</h3>
 
+[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=22656)](https://github.com/harish-sethuraman/readme-components)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jsh1021902&show_icons=true&locale=en" alt="jsh1021902" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jsh1021902&" alt="jsh1021902" /></p>
