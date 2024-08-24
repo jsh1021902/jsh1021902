@@ -56,7 +56,11 @@
 
 
 
-<h3></h3>
+<h3>🏙️Working/Education Experience</h3>
+**2019.03 ~ 2025.02** Attended Chung-Ang University, Department of Applied Statistics   
+**2021.02~2022.08** Korea Combat Training Center (K.C.T.C) Army sergeant, honorable discharge
+**2022.08 ~ 2023.12** JSS (J.Smart.Solution) - Lead Researcher for SmartFactory ERP & MES Development  
+**2023.12 ~ ing** Undergraduate Research Student at SPM LAB, Department of Applied Statistics, Chung-Ang University  
 
 
 <h3>📜 Certifications</h3>
