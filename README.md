@@ -18,8 +18,7 @@
 <h3>Things I code with</h3>
 <h4>Programming Languages</h4>
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python"/>
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
 </p>
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![C#](https://img.shields.io/badge/-C#-00599C?style=flat-square&logo=c)
