@@ -114,7 +114,15 @@
       </b></td>
     </tr>       
     <tr>
-      <td><b>CUAI</b></td>
+      <td><b>CUAI Basic Course</b></td>
+      <td><b>Spaceship Titanic</b></td>
+      <td><b>
+        <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+        <img alt="Kaggle" src="https://img.shields.io/badge/kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/>
+      </b></td>
+    </tr>
+    <tr>
+      <td><b>CUAI Summer Conference</b></td>
       <td><b>Development of the Cerebral Aneurysm Detectron using Brain DSA(Digital Subtraction Angiography) Image</b></td>
       <td><b>
         <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
