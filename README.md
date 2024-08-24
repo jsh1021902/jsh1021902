@@ -59,7 +59,7 @@
 ![2019.03 ~ 2025.02](https://img.shields.io/badge/2019.03%20~%202025.02-87CEEB) Attended Chung-Ang University, Department of Applied Statistics  
 ![2021.02 ~ 2022.08](https://img.shields.io/badge/2021.02%20~%202022.08-87CEEB) Korea Combat Training Center (KCTC), Army Sergeant, Honorable Discharge  
 ![2022.08 ~ 2023.12](https://img.shields.io/badge/2022.08%20~%202023.12-87CEEB) JSS (J.Smart.Solution) - Lead Researcher for SmartFactory ERP & MES Development  
-![2023.03 ~ 2023.12](https://img.shields.io/badge/2022.08%20~%202023.12-87CEEB) CUAI (Chung-Ang University Artificial Intelligence Club) 6th Generation
+![2023.03 ~ 2023.12](https://img.shields.io/badge/2022.08%20~%202023.12-87CEEB) CUAI (Chung-Ang University Artificial Intelligence Club) 6th Generation  
 ![2023.12 ~ Present](https://img.shields.io/badge/2023.12%20~%20Present-87CEEB) Undergraduate Research Student at SPM LAB, Department of Applied Statistics, Chung-Ang University  
 
 <h3>📜 Certifications</h3>
