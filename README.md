@@ -24,23 +24,11 @@
   <img alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style==flat-square&logo=mysql&logoColor=white"/>
   <img alt="MSSQL" src="https://img.shields.io/badge/MSSQL-CC2927?style==flat-square&logo=microsoft-sql-server&logoColor=white"/>
 </p>
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![C#](https://img.shields.io/badge/-C#-00599C?style=flat-square&logo=c)
-
-
-<p>
-  <img alt="C#" src="https://img.shields.io/badge/C%23-239120.svg?&style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
-  <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
-  <img alt="r" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-  <img alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img alt="MSSQL" src="https://img.shields.io/badge/MSSQL-CC2927.svg?&style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-</p>
 
 <h4>AI/ML</h4>
 <p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="pytorch" />
+  <img alt="tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img alt="pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 </p>
 
 <h4>DevOps</h4>
