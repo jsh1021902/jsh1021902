@@ -25,11 +25,19 @@
   <img alt="MSSQL" src="https://img.shields.io/badge/MSSQL-CC2927?style==flat-square&logo=microsoft-sql-server&logoColor=white"/>
 </p>
 
+<h4>Mobile App Development</h4>
+<p>
+  <img alt="xamarin" src="https://img.shields.io/badge/-xamarin-3776AB?style=flat-square&logo=xamarin&logoColor=white"/>
+</p>
+
 <h4>AI/ML</h4>
 <p>
   <img alt="tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
   <img alt="pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
   <img alt="jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+  <img alt="pandas" src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img alt="seaborn" src="https://img.shields.io/badge/seaborn-276DC3?style=flat-square&logo=seaborn&logoColor=white"/>
+  <img alt="scikit_learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit_learn&logoColor=white"/>
 </p>
 
 <h4>DevOps</h4>
