@@ -10,8 +10,9 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning **AI / Machine Learning (Deep Learning)**
-  
+- 🌱 I’m currently learning **AI / Machine Learning (Deep Learning).**
+- 😎 Specifically, as an undergraduate research student at Chung-Ang University's SPM LAB, I am researching **autocorrelation process monitoring procedures using deep learning technology.**
+- 👍 My areas of interest include **computer vision, reinforcement learning, and machine learning.**
 
 
 
