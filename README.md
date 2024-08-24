@@ -61,7 +61,7 @@
     <tr border: none;>
       <td><b>🎀 Type</b></td>
       <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Tools</b></td>
+      <td><b>🛎 Tools</b></td>
     </tr>
   </thead>
   <tbody>
@@ -112,7 +112,16 @@
         <img alt="C#" src="https://img.shields.io/badge/C%23-6A0DAD?style=flat-square&logo=csharp&logoColor=white"/>
         <img alt="MSSQL" src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>
       </b></td>
-    </tr>       
+    </tr>
+    <tr>
+      <td><b>Chung-Ang University College of Business and Economics Academic Festival</b></td>
+      <td><b>Spaceship Titanic</b></td>
+      <td><b>
+        <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+        <img alt="Machine Learning" src="https://img.shields.io/badge/Machine Learning-F37626?style=flat-square&logo=Machine Learning&logoColor=white"/>
+        <img alt="Kaggle" src="https://img.shields.io/badge/kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/>
+      </b></td>
+    </tr>
     <tr>
       <td><b>CUAI Basic Course</b></td>
       <td><b>Spaceship Titanic</b></td>
