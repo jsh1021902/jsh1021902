@@ -6,6 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jsh1021902&label=Profile%20views&color=0e75b6&style=flat" alt="jsh1021902" /> </p>
 
 - 🌱 I’m currently learning **AI / Machine Learning (Deep Learning)**
+  
 [![Gmail Badge](https://img.shields.io/badge/-jsh1021902@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jsh1021902@gmail.com)](mailto:jsh1021902@gmail.com)
 
 
