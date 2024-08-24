@@ -113,6 +113,16 @@
         <img alt="MSSQL" src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>
       </b></td>
     </tr>       
+
+    <tr>
+      <td><b>CUAI</b></td>
+      <td><b>Development of the Cerebral Aneurysm Detectron using Brain DSA(Digital Subtraction Angiography) Image</b></td>
+      <td><b>
+        <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+        <img alt="pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+        <img alt="CNN(Convolutional Neural Network)" src="https://img.shields.io/badge/CNN-150458?style=flat-square&logo=CNN&logoColor=white"/>
+      </b></td>
+    </tr>
   </tbody>
 </table>
 
