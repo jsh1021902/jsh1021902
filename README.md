@@ -124,7 +124,7 @@
     </tr>
     <tr>
       <td><b>CUAI Basic Course</b></td>
-      <td><b>Spaceship Titanic</b></td>
+      <td><b>Spaceship Titanic-Predict which passengers are transported to an alternate dimension</b></td>
       <td><b>
         <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
         <img alt="Machine Learning" src="https://img.shields.io/badge/Machine Learning-F37626?style=flat-square&logo=Machine Learning&logoColor=white"/>
