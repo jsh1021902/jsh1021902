@@ -115,7 +115,7 @@
     </tr>
     <tr>
       <td><b>Chung-Ang University College of Business and Economics Academic Festival</b></td>
-      <td><a href="https://github.com/jsh1021902/Business-Economics_Academic_Festival"><b>A Review of Statistical Data Analysis Methods for Performance Evaluation of Synthetic Data</b></a></td>
+      <td><a href="https://github.com/jsh1021902/AI_Detective"><b>A Review of Statistical Data Analysis Methods for Performance Evaluation of Synthetic Data</b></a></td>
       <td><b>
         <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
         <img alt="jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
@@ -133,7 +133,7 @@
     </tr>
     <tr>
       <td><b>CUAI Summer Conference</b></td>
-      <td><b>Development of the Cerebral Aneurysm Detectron using Brain DSA(Digital Subtraction Angiography) Image</b></td>
+      <td><a href=""><b>Development of the Cerebral Aneurysm Detectron using Brain DSA(Digital Subtraction Angiography) Image</b></a></td>
       <td><b>
         <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
         <img alt="pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
@@ -160,7 +160,7 @@
     </tr>
     <tr>
       <td><b>2023 Seoul Big Data Campus Competition</b></td>
-      <td><b>Smart route recommendation: priority-based congestion response system</b></td>
+      <td><a href="https://github.com/jsh1021902/Seoul_Festival"><b>Smart route recommendation: priority-based congestion response system</b></a></td>
       <td><b>
         <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
         <img alt="jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
@@ -169,7 +169,7 @@
     </tr>
     <tr>
       <td><b>Department classes - Ai for Machine Learning</b></td>
-      <td><b>Binary prediction of smoking status using biosignals</b></td>
+      <td><a href="https://github.com/jsh1021902/ai_for_machine_learning"><b>Binary prediction of smoking status using biosignals</b></a></td>
       <td><b>
         <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
         <img alt="jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
@@ -179,7 +179,7 @@
     </tr>
     <tr>
       <td><b>The 2nd Applied Statistics Department Entrepreneurship Competition</b></td>
-      <td><b>Location information system that predicts departure time based on user schedule</b></td>
+      <td><a href="https://github.com/jsh1021902/Applied_Statistics_Department_Entrepreneurship_Competition"><b>Location information system that predicts departure time based on user schedule</b></a></td>
       <td><b>
         <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
         <img alt="jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
