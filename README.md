@@ -151,7 +151,7 @@
     </tr>
     <tr>
       <td><b>AI Idea Competition for Solving Challenges in Seoul's Urban Manufacturing Industry</b></td>
-      <td><b></b></td>
+      <td><b>3D Sketch Edit Shop - An online platform where you can design your own products in 3D using images</b></td>
       <td><b>
         <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
         <img alt="jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
@@ -160,7 +160,16 @@
     </tr>
     <tr>
       <td><b>2023 Seoul Big Data Campus Competition</b></td>
-      <td><b></b></td>
+      <td><b>Smart route recommendation: priority-based congestion response system</b></td>
+      <td><b>
+        <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+        <img alt="jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+        <img alt="Machine Learning" src="https://img.shields.io/badge/Machine Learning-F37626?style=flat-square&logo=Machine Learning&logoColor=white"/>
+      </b></td>
+    </tr>
+    <tr>
+      <td><b>Department classes - Ai for Machine Learning</b></td>
+      <td><b>Binary prediction of smoking status using biosignals</b></td>
       <td><b>
         <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
         <img alt="jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
@@ -169,7 +178,7 @@
     </tr>
     <tr>
       <td><b>The 2nd Applied Statistics Department Entrepreneurship Competition</b></td>
-      <td><b></b></td>
+      <td><b>Location information system that predicts departure time based on user schedule</b></td>
       <td><b>
         <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
         <img alt="jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
