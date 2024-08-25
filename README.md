@@ -218,7 +218,7 @@
     </tr>
     <tr>
       <td><b>Encouragement Award at the 1st 2024 Korea Student Startup Week for Public Technology-Based Startup Idea</b></td>
-      <td><b>Personal broadcast audio support tool</b></td>
+      <td><a href="https://github.com/jsh1021902/Entrepreneurship-Week"><b>Personal broadcast audio support tool</b></a></td>
       <td><b>
         <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
         <img alt="jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
