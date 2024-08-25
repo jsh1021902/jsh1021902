@@ -133,7 +133,7 @@
     </tr>
     <tr>
       <td><b>CUAI Summer Conference</b></td>
-      <td><a href=""><b>Development of the Cerebral Aneurysm Detectron using Brain DSA(Digital Subtraction Angiography) Image</b></a></td>
+      <td><a href="https://github.com/jsh1021902/Aneurysm_Detectron"><b>Development of the Cerebral Aneurysm Detectron using Brain DSA(Digital Subtraction Angiography) Image</b></a></td>
       <td><b>
         <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
         <img alt="pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
@@ -142,20 +142,11 @@
     </tr>
     <tr>
       <td><b>CUAI Basic Course</b></td>
-      <td><b>MNIST Data Classification Using Spiking Neural Network (SNN) Implementation</b></td>
+      <td><a href="https://github.com/jsh1021902/MNIST_Classification_SNN"><b>MNIST Data Classification Using Spiking Neural Network (SNN) Implementation</b></a></td>
       <td><b>
         <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
         <img alt="pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
         <img alt="SNN(Spiking Neural Network)" src="https://img.shields.io/badge/SNN-150458?style=flat-square&logo=Spiking Neural Network&logoColor=white"/>
-      </b></td>
-    </tr>
-    <tr>
-      <td><b>AI Idea Competition for Solving Challenges in Seoul's Urban Manufacturing Industry</b></td>
-      <td><b>3D Sketch Edit Shop - An online platform where you can design your own products in 3D using images</b></td>
-      <td><b>
-        <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-        <img alt="jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-        <img alt="Machine Learning" src="https://img.shields.io/badge/Machine Learning-F37626?style=flat-square&logo=Machine Learning&logoColor=white"/>
       </b></td>
     </tr>
     <tr>
@@ -188,7 +179,7 @@
     </tr>
     <tr>
       <td><b>CUAI Basic Course</b></td>
-      <td><b>Spiking Neural Network (SNN)-Based Vehicle Identification Image Processing Model</b></td>
+      <td><a href="https://github.com/jsh1021902/Vehicle_Identification_Image_SNN"><b>Spiking Neural Network (SNN)-Based Vehicle Identification Image Processing Model</b></a></td>
       <td><b>
         <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
         <img alt="pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
@@ -198,7 +189,7 @@
     </tr>
     <tr>
       <td><b>SPM LAB</b></td>
-      <td><b>Performance Comparison of Autocorrelation Process Monitoring Procedures Based on Classification and Prediction</b></td>
+      <td><a href="https://github.com/jsh1021902/monitoring_autocorrelated_processes_RNN"><b>Performance Comparison of Autocorrelation Process Monitoring Procedures Based on Classification and Prediction</b></a></td>
       <td><b>
         <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
         <img alt="pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
@@ -208,7 +199,7 @@
     </tr>
     <tr>
       <td><b>SPM LAB</b></td>
-      <td><b>Procedure for monitoring autocorrelated processes using LSTM Autoencoder</b></td>
+      <td><a href="https://github.com/jsh1021902/monitoring_autocorrelated_processes_LSTM_Autoencoder"><b>Procedure for monitoring autocorrelated processes using LSTM Autoencoder</b></a></td>
       <td><b>
         <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
         <img alt="pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
@@ -227,7 +218,7 @@
     </tr>
     <tr>
       <td><b>SPM LAB</b></td>
-      <td><b>Determining the Optimal Latent Vector Dimensions in LSTM Autoencoders for Monitoring Autocorrelated Processes</b></td>
+      <td><a href="https://github.com/jsh1021902/Optimal_Latent_Vector_Dimensions_in_LSTM_Autoencoders"><b>Determining the Optimal Latent Vector Dimensions in LSTM Autoencoders for Monitoring Autocorrelated Processes</b></a></td>
       <td><b>
         <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
         <img alt="pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
