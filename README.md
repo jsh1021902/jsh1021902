@@ -174,6 +174,7 @@
         <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
         <img alt="jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
         <img alt="Machine Learning" src="https://img.shields.io/badge/Machine Learning-F37626?style=flat-square&logo=Machine Learning&logoColor=white"/>
+        <img alt="Kaggle" src="https://img.shields.io/badge/kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/>
       </b></td>
     </tr>
     <tr>
@@ -217,7 +218,7 @@
     </tr>
     <tr>
       <td><b>Encouragement Award at the 1st 2024 Korea Student Startup Week for Public Technology-Based Startup Idea</b></td>
-      <td><b></b></td>
+      <td><b>Personal broadcast audio support tool</b></td>
       <td><b>
         <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
         <img alt="jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
