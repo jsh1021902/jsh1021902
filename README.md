@@ -267,7 +267,7 @@
   </tr>
   <tr>
     <td style="width: 150px;"><img src="https://img.shields.io/badge/2020-FFA07A?style=flat-square" /></td>
-    <td>Computer Literacy Level 1</td>
+    <td>Computer Specialist in Spreadsheet & Database Level-1</td>
   </tr>
   <tr>
     <td style="width: 150px;"><img src="https://img.shields.io/badge/2022-FFA07A?style=flat-square" /></td>
