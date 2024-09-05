@@ -14,6 +14,9 @@
 - 😎 Specifically, as an undergraduate research student at Chung-Ang University's SPM LAB, I am researching **autocorrelation process monitoring procedures using deep learning technology.**
 - 👍 My areas of interest include **computer vision, reinforcement learning, and machine learning.**
 
+<h3>👜 My CV </h3>
+<a href="https://github.com/user-attachments/files/16885254/JeongSeoHyeon.CV.docx" download>JeongSeoHyeon's CV</a>
+
 <h3>💪Things I code with</h3>
 <h4>Programming Languages</h4>
 <p>
@@ -302,11 +305,6 @@
     <td>Encouragement Award at the 1st 2024 Korea Student Startup Week for Public Technology-Based Startup Idea</td>
   </tr>
 </table>
-
-<h3>👜 My CV </h3>
-<a href="https://github.com/user-attachments/files/16885254/JeongSeoHyeon.CV.docx" download>JeongSeoHyeon's CV</a>
-
-
 
 <h3 align="left">📈my github stats</h3>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jsh1021902&show_icons=true&theme=gotham" alt="jsh1021902"/>
