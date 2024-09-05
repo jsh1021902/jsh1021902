@@ -304,7 +304,7 @@
 </table>
 
 <h3>👜 My CV </h3>
-[JeongSeoHyeon's CV](https://github.com/user-attachments/files/16885254/JeongSeoHyeon.CV.docx)
+<a href="https://github.com/user-attachments/files/16885254/JeongSeoHyeon.CV.docx" download>JeongSeoHyeon's CV</a>
 
 
 
