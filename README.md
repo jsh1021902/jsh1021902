@@ -307,6 +307,7 @@
 [JeongSeoHyeon's CV](https://github.com/user-attachments/files/16885254/JeongSeoHyeon.CV.docx)
 
 
+
 <h3 align="left">📈my github stats</h3>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jsh1021902&show_icons=true&theme=gotham" alt="jsh1021902"/>
 
