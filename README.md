@@ -11,7 +11,7 @@
 </p>
 
 - 🌱 I’m currently learning **AI / Machine Learning (Deep Learning).**
-- 😎 Specifically, as an undergraduate research student at Chung-Ang University's SPM LAB, I am researching **autocorrelation process monitoring procedures using deep learning technology.**
+- 😎 Specifically, as an undergraduate research student at Yeonsei University's JeonYeongHo LAB, I am researching **autocorrelation process monitoring procedures using deep learning technology.**
 - 👍 My areas of interest include **computer vision, reinforcement learning, and machine learning.**
 
 <h3>👜 My CV </h3>
